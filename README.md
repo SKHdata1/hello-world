@@ -1,7 +1,4 @@
-# hello-world
-test repository
-
-Hello World!
+#Hello World!
 =============
 
 ## This is my Hello World test file.
